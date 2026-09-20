@@ -1,0 +1,6 @@
+{
+  "name": "Pip's 2-Ingredient Kitchen",
+  "description": "Delicious, easy 2-ingredient recipes ready in under 10 minutes with Chef Pip the rabbit in a cozy buttermilk and baby blue aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
